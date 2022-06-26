@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test1</string>
+    <string-array name="VC_type">
+        <item>貴賓席</item>
+        <item>一般席</item>
+    </string-array>
+
+</resources>
